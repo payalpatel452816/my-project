@@ -1,0 +1,22 @@
+.home-container {
+  display: flex;
+  justify-content: space-evenly; 
+  align-items: center; 
+  padding: 20px;
+}
+
+.intro {
+  flex: 1; 
+}
+
+.image-container {
+  flex: 1; 
+  display: flex;
+  justify-content: center; 
+}
+
+.profile-image {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+}
